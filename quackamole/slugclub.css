@@ -1,0 +1,21 @@
+body {
+    background-color:black;
+    color:whitesmoke;
+    font-family: 'Lora', serif;
+}
+h1 {
+    font-size: 333px;
+    color: darkmagenta; 
+}
+img {
+    border-color: whitesmoke;
+    border-width: 50px;
+    border-style: solid; 
+    padding: 3px;
+    margin: 6px;
+}
+a {
+    border-color: whitesmoke;
+    border-width:3px;
+    border-style: groove;
+}
